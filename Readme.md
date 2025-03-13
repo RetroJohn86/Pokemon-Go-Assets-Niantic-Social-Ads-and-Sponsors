@@ -1,16 +1,27 @@
-# __**Pokemon GO Assets**__ __**:**__ __**Niantic Social, Ads and Sponsors**__
+# __**Pokemon GO Assets**__ __**:**__ __**Niantic Stuff**__
 
 
 **+** __**Repository Info**__
 
-As from the December 2024, the Download Size for this Repo is : **11.9 MB** ( Please Note The Size Can Change At Anytime Due Too Updates. )
+As from the March 2025, the Download Size for this Repo is : **12.5 MB** ( Please Note The Size Can Change At Anytime Due Too Updates. )
 **This Repository is of all thinks found and mined. This repo is organized based on category and is a combination of downloaded/remote assets and assets found inside the APK and Sources.**
 
 
 **+** __**Files and Folder Structure.**__
 
 **Images**
-All images in this repo are found and mined and are located are organized based on category e.g. ?.
+All images in this repo are found and mined and are located are organized based on category e.g. Accounts, Ads, App and Games, Devices, Sponsors, Others ane More.
+
+
+## __**Disclaimer**__
+
+**This repo is for educational use only.**
+
+**All content found within this repo is the property of Niantic.**
+
+**Retro John 86 did or didn't create or modify images or sounds found within this repo, even though they have custom names and all copyright belongs to the respective companies and sites.**
+
+**Please Respect the Original Source Material.**
 
 
 ## __**Social Media**__
